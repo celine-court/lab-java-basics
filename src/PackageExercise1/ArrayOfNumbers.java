@@ -20,6 +20,7 @@ public class ArrayOfNumbers {
                 minNum = listOfNumbers[i];
 
             }
+
         }
         System.out.println("The Max integer of the array is "+maxNum);
         System.out.println("The Min integer of the array is "+minNum);
